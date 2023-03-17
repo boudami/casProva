@@ -22,6 +22,7 @@ namespace gitProva7
     {
         public MainWindow()
         {
+        //commento da githubbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
             InitializeComponent();
         }
 <<<<<<< HEAD
