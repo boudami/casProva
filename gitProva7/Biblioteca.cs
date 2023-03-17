@@ -17,6 +17,7 @@ namespace gitProva7
             this.orarioApertura = orarioApertura;
             this.orarioChiusura = orarioChiusura;
         }
-
+        int contatore;
+        
     }
 }
