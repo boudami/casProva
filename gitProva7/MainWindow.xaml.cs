@@ -24,5 +24,11 @@ namespace gitProva7
         {
             InitializeComponent();
         }
+        int cosaACAso;
+
+        private void btnSuca_Click(object sender, RoutedEventArgs e)
+        {
+            int suca;
+        }
     }
 }
