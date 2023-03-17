@@ -24,5 +24,14 @@ namespace gitProva7
         {
             InitializeComponent();
         }
+
+        private void btnPallona_Click(object sender, RoutedEventArgs e)
+        {
+            string ciao;
+            foreach(int i in Enum.GetValues(typeof(string)))
+            {
+                ciao = i.ToString();
+            }
+        }
     }
 }

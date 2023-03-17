@@ -16,5 +16,6 @@ namespace gitProva7
             this.cognome = cognome; 
             this.anno = anno;   
         }
+        
     }
 }
