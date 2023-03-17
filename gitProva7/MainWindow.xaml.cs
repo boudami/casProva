@@ -24,12 +24,23 @@ namespace gitProva7
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
         int cosaACAso;
 
         private void btnSuca_Click(object sender, RoutedEventArgs e)
         {
             int suca;
             txtFiga.Text = "suca";
+=======
+
+        private void btnPallona_Click(object sender, RoutedEventArgs e)
+        {
+            string ciao;
+            foreach(int i in Enum.GetValues(typeof(string)))
+            {
+                ciao = i.ToString();
+            }
+>>>>>>> Biblioteca
         }
     }
 }
