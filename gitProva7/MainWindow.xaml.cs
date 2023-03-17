@@ -29,6 +29,7 @@ namespace gitProva7
         private void btnSuca_Click(object sender, RoutedEventArgs e)
         {
             int suca;
+            txtFiga.Text = "suca";
         }
     }
 }
